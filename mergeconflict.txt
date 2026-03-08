@@ -1,4 +1,6 @@
 // Branch A change
 public String loginMessage() {
-    return "Login Successful";
+    return "You have logged in";
 }
+
+
